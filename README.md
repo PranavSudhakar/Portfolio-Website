@@ -1,4 +1,4 @@
-It is a personal portfolio website developed using react which i will use to create a portfolio
+It is a personal portfolio website developed using react which i will use to create a portfolio.
 
 # Personal Portfolio Website in React
 
